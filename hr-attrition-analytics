@@ -1,0 +1,12 @@
+hr-attrition-analytics/
+├─ README.md
+├─ excel/
+│  └─ HR_Analytics_cleaned.xlsx   (optional)
+├─ sql/
+│  └─ hr_analysis_queries.sql
+├─ powerbi/
+│  └─ HR_Attrition_Dashboard.pbix
+└─ screenshots/
+   ├─ executive_summary.png
+   ├─ drivers_risk_signals.png
+   └─ compensation_insights.png
