@@ -7,16 +7,16 @@ This project analyzes employee attrition patterns to identify high-risk departme
 - Overall Attrition Rate: **16%**
 
 ## Tools Used
-- **Excel**: data validation + helper columns + pivot checks
-- **SQL Server**: ingestion + analysis queries
-- **Power BI**: interactive HR dashboard
+- Excel – data validation & HR pivots  
+- SQL Server – ingestion & business analysis  
+- Power BI – interactive dashboards  
 
 ## Business Questions
-- Which departments and job roles have the highest attrition?
-- Does overtime correlate with higher attrition?
-- How does business travel relate to attrition risk?
-- Are promotion delays associated with attrition?
-- Does attrition vary across salary bands?
+- Which departments and job roles experience the highest attrition?
+- Does overtime associate with increased attrition risk?
+- How does business travel relate to attrition?
+- Are promotion delays linked to turnover?
+- Does attrition vary by salary band?
 
 ## Deliverables
 - Power BI dashboard: `powerbi/HR_Attrition_Dashboard.pbix`
