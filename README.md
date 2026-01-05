@@ -22,8 +22,3 @@ This project analyzes employee attrition patterns to identify high-risk departme
 - Power BI dashboard: `powerbi/HR_Attrition_Dashboard.pbix`
 - SQL analysis: `sql/hr_analysis_queries.sql`
 - Dashboard screenshots: `screenshots/`
-
-## Dashboard Preview
-![Executive Summary](screenshots/executive_summary.png)
-![Drivers & Risk Signals](screenshots/drivers_risk_signals.png)
-![Compensation Insights](screenshots/compensation_insights.png)
